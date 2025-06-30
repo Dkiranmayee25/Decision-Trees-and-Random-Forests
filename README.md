@@ -24,10 +24,11 @@ Tasks Performed
 6. Evaluate performance using accuracy, classification report, and cross-validation
 
 Results
-- Decision Tree Test Accuracy: **~[your score]**
-- Limited Depth Decision Tree Accuracy: **~[your score]**
-- Random Forest Accuracy: **~[your score]**
-- Cross-Validation Accuracy: **~[mean score]**
+- Decision Tree Test Accuracy: 0.9853658536585366
+- Limited Depth Decision Tree Accuracy: 0.8
+- Random Forest Accuracy:  0.9853658536585366
+- Cross-Validation Accuracy: Decision Tree Mean Accuracy: 1.000
+                             Random Forest Mean Accuracy: 0.997
 
 Feature Importances
 Random Forest revealed that features like `cp`, `thalach`, and `ca` have the most impact on predictions.
